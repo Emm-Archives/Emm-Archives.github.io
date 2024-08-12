@@ -1,5 +1,5 @@
 ---
-title: Steam's Hidden Gems
+title: Free Fun Awaits
 description: These are some multiplayer free-to-play games that my gf and I played.
 categories: [F2P, Multiplayer]
 tags: [Game Recommendations, Game Reviews]
